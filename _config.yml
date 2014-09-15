@@ -71,7 +71,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: ''
+  siteurl: '{{ site.baseurl }}'
   relativeLinks: '/links.jsonp'
   media: 'images'
   metadata:
