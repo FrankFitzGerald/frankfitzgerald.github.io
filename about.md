@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/frank-in-a-sombrero.png" alt="Frank FitzGerald">
+  <img src="{{ site.url }}/images/frank-fitzgerald.png" alt="Frank FitzGerald">
   <figcaption>Frank FitzGerald</figcaption>
 </figure>
 
@@ -38,8 +38,8 @@ I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UP
 *[UPENN]: University of Pennsylvania
 
 <figure>
-	<img src="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg" alt="Hossain Mohammad Faysal">
-	<figcaption>At Bates Linear Accelerator Center</figcaption>
+	<img src="{{ site.url }}/images/frank-in-a-sombrero.jpg" alt="Frank FitzGerald">
+	<figcaption>Happy Cinco De Mayo!!</figcaption>
 </figure>
 
 I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
