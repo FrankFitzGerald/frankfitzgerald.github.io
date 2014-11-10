@@ -35,7 +35,7 @@ I have a B.A. in *Digital Media* from [UCF](http://www.UCF.edu/) at **University
 
 <figure>
 	<img src="{{ site.url }}/images/frank-in-a-sombrero.jpg" alt="Frank FitzGerald">
-	<figcaption>Happy Cinco De Mayo!!</figcaption>
+	<figcaption>Me in a sombrero because every other picture just looks too serious.</figcaption>
 </figure>
 
 I was born and brought up in Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -60,15 +60,15 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	<figcaption>Doha at its full glory.</figcaption>
 </figure>
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
+At some point in the not-terribly-distant future, I hope to find a self-sustaining collective of clever people, for fun, profit(?), and the promotion of living a happy & meaningful life. This might find me in the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plan.(Yes, I have a special bin for overly idealistic plans. The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm always looking for people who might be interested in being a part of such an organization.
 
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
+Anyways, for now I'm just working toward being an overall good designer & coder. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
 
 
 Entrepreneur  
 Designer  
-***Engineer***  
-Inventor  
+***Coder***  
+Developer  
 
 I
 make
