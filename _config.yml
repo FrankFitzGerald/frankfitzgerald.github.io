@@ -13,6 +13,9 @@ zip_code: 327**
 country: United States of America
 phone: (407) 708-8813
 
+# Enforcing SSL
+enforce_ssl: frankfitzgerald.net    # without any protocol
+
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
