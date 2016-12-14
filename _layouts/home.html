@@ -1,67 +1,55 @@
 <!DOCTYPE html>
-<html>
 <!--
-====================================================
-    __  ____  ______________  _______ ___    __
-   / / / /  |/  / ____/   \ \/ / ___//   |  / /
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-
-====================================================
-Owner Name: Frank FitzGerald
-Profile: https://www.facebook.com/FitzGeraldFrank
-Version: 1.1
-Description: Awesome dude, awesome life
-====================================================
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<head>
+<html>
+
 {% include head.html %}
-</head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-<header class="notepad-site-head">
-    <div class="notepad-site-head-menu">
-        <a class="notepad-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
 
+<body>
 
-        <div class="notepad-blog-menu">
-    <div class="notepad-mobile-menu show-for-small">
-        <a href="#"><i class="fa fa-bars"></i></a>
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <ul class="actions">
+                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Massa libero</h2>
+                </header>
+                <p>{{ content }}</p>
+                <ul class="actions">
+                    <li><a href="landing.html" class="button next">Get Started</a></li>
+                </ul>
+            </div>
+        </section>
+
     </div>
-    <ul class="notepad-menu">
-        <li class="notepad-mobile-close-btn show-for-small text-right">
-            <a href="#"><i class="fa fa-times"></i></a>
-        </li>
-{% for link in site.links %}
-            <li>{% if link.external %}
-            <a href="{{ link.url }}">{{ link.title }}</a>
-            {% else %}
-            <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
-            {% endif %} </li>
-{% endfor %}
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-    </ul>
-</div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="notepad-site-head-content" >
-        <div class="notepad-site-head-bg"></div>
-        <h1 class="notepad-blog-title">
-            <span class="notepad-site-head-title-bg">
-                {{ site.title }}
-            </span>
-        </h1>
-        <h2 class="notepad-blog-description">{{ site.description }}</h2>
-    </div>
-</header>
 
-
-<main class="notepad-content" role="main">
-
-            {{ content }}
-</main>
     {% include footer.html %}
 
-{% include scripts.html %}
 </body>
+
 </html>
