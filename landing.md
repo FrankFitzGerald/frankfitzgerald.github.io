@@ -9,7 +9,7 @@ nav-menu: true
 <section id="banner" class="style2">
   <div class="inner">
   <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
+  <img src="{{ site.baseurl }}/{{ page.image }}" alt=""/>
 </span>
   <header class="major">
 
@@ -105,13 +105,13 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <em></em>
   <div class="inner"><em><header class="major">
 
-## A little about me and this site
+### A little about me and this site
 
 </header>
 
 Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
 
-</em>   <li><a href="generic.html" class="button next">Get Started</a></li>
+</em>   <a href="generic.html">Get Started</a>{:.button .next}
 
 </div>
 </section>
