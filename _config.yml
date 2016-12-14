@@ -1,7 +1,7 @@
 # Site settings
 title: My Personal Blog & Website
 subtitle: by Frank FitzGerald
-email: me@FrankFitzGerald
+email: me@frankfitzGerald.net
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://frankfitzgerald.github.io" # the base hostname & protocol for your site
