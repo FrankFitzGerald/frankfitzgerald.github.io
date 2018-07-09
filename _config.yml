@@ -8,7 +8,7 @@ url: https://frankfitzgerald.net # the base hostname & protocol for your site
 enforce_ssl: https://frankfitzgerald.net
 author:
 street_address:
-city: 
+city:
 state:
 zip_code:
 country:
@@ -22,13 +22,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://github.com/FrankFitzGerald
-gitlab_url: https://gitlab.com/FrankFitzGerald
+gitlab_url:
 googleplus_url:
 instagram_url: https://instagram.com/frankjfitzgerald
 linkedin_url: https://www.linkedin.com/in/fitzgeraldfrank
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/Frank_Fitz
+twitter_url: 
 
 # Build settings
 markdown: kramdown
