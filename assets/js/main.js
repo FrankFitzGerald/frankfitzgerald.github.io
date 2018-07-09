@@ -267,10 +267,6 @@
 		var speed = 75;
 		var delay = $('h1').text().length * speed + speed;
 		typeEffect($('h1'), speed);
-		setTimeout(function(){
-			$('p').css('display', 'inline-block');
-			typeEffect($('p'), speed);
-		}, delay);
 
 		// Menu.
 			var $menu = $('#menu'),
