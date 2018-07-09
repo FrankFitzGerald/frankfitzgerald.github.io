@@ -265,7 +265,6 @@
 
 		// Activate type typeEffect
 		var speed = 75;
-		var delay = $('h1').text().length * speed + speed;
 		typeEffect($('h1'), speed);
 
 		// Menu.
