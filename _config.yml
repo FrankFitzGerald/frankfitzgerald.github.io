@@ -1,11 +1,11 @@
 # Site settings
 title: My Personal Blog & Website
 subtitle: by Frank FitzGerald
-email: me@frankfitzgerald.net
+email: frank.joseph.fitzgerald@gmail.com
 description: Welcome to my personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://frankfitzgerald.net # the base hostname & protocol for your site
-enforce_ssl: https://frankfitzgerald.net
+url: https://frankfitzgerald.github.io # the base hostname & protocol for your site
+enforce_ssl: https://frankfitzgerald.github.io
 author:
 street_address:
 city:
